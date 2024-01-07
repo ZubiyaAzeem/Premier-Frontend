@@ -107,7 +107,6 @@ nav h2:nth-last-child(1){
     display: flex;
     align-items: center;
     justify-content: space-between;
-
 }
 #over2{
     display: flex;
@@ -115,11 +114,9 @@ nav h2:nth-last-child(1){
     justify-content: space-between;
     border-top: 2px solid #ffffff;
     margin-top: 2vh;
-
 }
 #over1 h1{
-    font-family: 'monument';
-    
+    font-family: 'monument';   
 }
 #over1 h2{
     width: 8vh;    
@@ -131,7 +128,6 @@ nav h2:nth-last-child(1){
     font-size: 3vh;
     border: 2px solid #ffffffb0;
     border-bottom: 3px solid #fff;
-
 }
 #over2 img{
     filter: invert(100%);
@@ -156,7 +152,6 @@ nav h2:nth-last-child(1){
     animation-duration: 10s;
     animation-iteration-count:infinite;
     animation-timing-function: linear;
-   
 }
 .container img{
     height: 100%;
@@ -172,7 +167,6 @@ nav h2:nth-last-child(1){
     to{
         transform: translateX(-100%);
     }
-    
 }
 #alphabet{
     width: 100%;
@@ -204,7 +198,6 @@ nav h2:nth-last-child(1){
     transition:all ease 0.2s;
     border:2px solid #00000000;
     cursor: pointer;
-
 }
 #alphabet h6:hover{
     border:2px solid #0000007e;
@@ -272,7 +265,6 @@ nav h2:nth-last-child(1){
     align-items: center;
     justify-content: space-between;
     padding: 5vw 5vw;
-   
 }
 #left3{
     width: 30%;
@@ -284,7 +276,6 @@ nav h2:nth-last-child(1){
 #left3 h2{
     font-weight: 600;
     font-size: 1.46vw;
-
 }
 #right3{
     width: 60%;
@@ -297,7 +288,6 @@ nav h2:nth-last-child(1){
     height: 50%;
     width: 100%;  
     display: flex;
-
 }
 #circular-text #circle{
     width: 100%;
@@ -307,7 +297,6 @@ nav h2:nth-last-child(1){
 #page4{
     width: 100%;
     height: 90%;
-   
     padding: 4vw 5vw;
     padding-top: 0px;
 }
@@ -340,7 +329,6 @@ nav h2:nth-last-child(1){
     position: relative;
     cursor: pointer;
     transition: all ease 0.10s;
-    
 }
 .elem:nth-last-child(1){
     border-bottom: 2px solid #000;
@@ -360,7 +348,6 @@ nav h2:nth-last-child(1){
 #name h2{
     font-weight: 500;
     font-size: 2.4vw;
-
 }
 #name{
     width: 50%;
@@ -374,7 +361,6 @@ nav h2:nth-last-child(1){
     position: absolute;
     left: 9%;
     transition: all ease 0.7s;
-
 }
 .elem:hover img{
     opacity: 1;
@@ -401,8 +387,8 @@ nav h2:nth-last-child(1){
 #right6{
     width: 45%;
     height: 100%;
-    
-}#right6 #top-txt{
+}
+#right6 #top-txt{
     width: 100%;
     height: 50%;
 }
@@ -455,7 +441,6 @@ nav h2:nth-last-child(1){
 }
 .page-8-r >img{
     object-position:top;
-   
 }
 .page-8-r> #bottom-text{
     height: 20%;
